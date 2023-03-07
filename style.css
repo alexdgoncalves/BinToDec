@@ -1,0 +1,9 @@
+* {
+  color: #fff;
+}
+
+#calculation {
+  overflow: hidden;
+  resize: auto;
+  height: 8rem;
+}
